@@ -1,0 +1,13 @@
+.productDetails{
+padding: 2rem;
+text-align: center;
+}
+.productDetails h1{
+
+    margin: 2rem;
+    text-transform: uppercase;
+}
+.productDetails img{
+    margin: 2rem;
+  
+}
